@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	//Conditional Operator, »ïÇ×¿¬»êÀÚ
+	//Conditional Operator, Â»Ã¯Ã‡Ã—Â¿Â¬Â»ÃªÃ€Ãš
 
 	bool onSale = true;
 	int price = (onSale == true) ? 10 : 100; // true 10 , false 100; 
